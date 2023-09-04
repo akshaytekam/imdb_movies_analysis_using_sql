@@ -5,3 +5,4 @@ The objective of this case study is to analyze the movie dataset using SQL queri
 
 ## All the queries with SQL statements are provided in 'imdb_scrip.sql' file.
 ## I have used MYSQL for this project.
+![image](https://github.com/akshaytekam/imdb_movies_analysis_using_sql/assets/42464327/8a2b320f-f4d8-43a4-9414-77c8a3c07445)
